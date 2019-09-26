@@ -1,7 +1,7 @@
 <html>
   <body>
 
-    <?php include 'menu.php';?>
+    <?php include 'navbar.php';?>
 
     <h1>Welcome to my home page!</h1>
     <p>Some text.</p>
