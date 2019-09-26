@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+#navbar{
+  height: 50px;
+  margin: 20px 0px;
+}
+
 .menu_button {
   height: 50px;
   background-color: blue;
