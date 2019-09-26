@@ -1,3 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
 .menu_button {
   display: inline;
+  width: 50%;
+  float: left;
 }
