@@ -3,11 +3,12 @@
 }
 
 .menu_button {
+  height: 50px;
   display: inline-flex;
   width: 50%;
   float: left;
   justify-content: center;
-  align_items: center;
+  align-items: center;
 }
 
 .menu_button a{
