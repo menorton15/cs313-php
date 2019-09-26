@@ -13,8 +13,9 @@
 }
 
 .menu_button a{
+  color: white;
   display: flex;
-  text-decoraction: none;
+  text-decoration: none;
 }
 
 .menu_button:hover{
